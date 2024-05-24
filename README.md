@@ -3,7 +3,7 @@ LLM 파인 튜닝 및 파인 튜닝된 모델 사용해보기 (EEVE-Korean, Alpa
 
 
 ## 1. 한국어 파인 튜닝 모델
-Ollama 프레임워크로 한국어 학습 파인튜닝 모델 (EEVE-Korean) 모델 받아서 로컬 환경에서 실행하기
+Ollama 프레임워크로 한국어 학습 파인튜닝 모델 (EEVE-Korean) 받아서 로컬 환경에서 실행하기
 
 <img width="803" alt="image" src="https://github.com/yammayamm/LLM-project/assets/49015100/4f045ac1-aa6f-4500-83ad-adf8e78e8b92">
 
