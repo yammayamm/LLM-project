@@ -65,7 +65,7 @@ ouput: 모델의 답
 text: 모델에 들어가는 text
 
 ### 2) Gemma 데이터셋 포맷팅
-
+```
 <start_of_turn>user
 
 ...<end_of_turn>
@@ -73,6 +73,7 @@ text: 모델에 들어가는 text
 <start_of_turn>model
 
 ...<end_of_turn>
+```
 
 ### 3) 모델 로드 및 튜닝
 
